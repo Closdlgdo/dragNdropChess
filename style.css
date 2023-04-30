@@ -11,36 +11,36 @@ body {
 }
 
 .square {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 #king{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 #queen{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 #rook{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 #pawn{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 .beige {
-    background-color: rgb(230, 216, 184);
+    background-color: rgb(233, 225, 205);
 }
 
 .maroon {
-    background-color: rgb(59, 7, 7);
+    background-color: rgb(82, 57, 57);
 }
 
 #info {
